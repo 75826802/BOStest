@@ -12,7 +12,7 @@
     <name>bos-management Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <description>核心业务管理平台</description>
-
+<!--test-->
     <build>
         <finalName>bos-management</finalName>
     </build>
